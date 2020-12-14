@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 92A2-8C4D
+
+ Directory of C:\Users\asus\Desktop\my project
+
+12/14/2020  02:39 PM    <DIR>          .
+12/14/2020  02:39 PM    <DIR>          ..
+12/14/2020  02:39 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  207,546,585,088 bytes free
